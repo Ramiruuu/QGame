@@ -1,6 +1,8 @@
 ## Quiz Game
 A responsive, interactive quiz game built with HTML, CSS, and JavaScript. Test your knowledge with a sleek GUI, timed questions, and instant feedback. Perfect for learning web development or creating fun quizzes!
 
+![image](https://github.com/user-attachments/assets/57f41bfb-05e4-4302-aa3c-db004d278578)
+
 ## Overview
 This project is a single-page quiz application that challenges users with multiple-choice questions. It includes a countdown timer, score tracking, and a results screen. The design is fully responsive, with smooth animations and an intuitive interface.
 
